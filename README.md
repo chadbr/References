@@ -22,6 +22,11 @@ C# Killer Video Demo | https://github.com/luketillman/killrvideo-csharp
 
 GraphQL and REST | http://blog.startifact.com/posts/graphql-and-rest.html
 
+#Web
+
+##Random
+Free SSL - Let's Encrypt | https://letsencrypt.org/
+
 # JavaScript
 
 ## Markdown MD
@@ -77,3 +82,8 @@ Convolution Wiki | https://en.wikipedia.org/wiki/Convolution
 
 Deconvolution | http://terpconnect.umd.edu/~toh/spectrum/Deconvolution.html
 Deconvolution Wiki | https://en.wikipedia.org/wiki/Deconvolution
+
+## Serialization
+
+### MessagePack
+MessagePack | http://msgpack.org/ 
