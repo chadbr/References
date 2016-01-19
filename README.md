@@ -1,3 +1,10 @@
+#dotNetCore
+
+dnx to dotnet mappings | http://tattoocoder.azurewebsites.net/preparing-for-dotnet-cli/
+
+intro to .net cli | https://github.com/dotnet/cli/blob/master/Documentation/intro-to-cli.md
+
+
 # Cloud
 ## Azure
 
@@ -17,6 +24,8 @@ Google Containers | https://cloud.google.com/compute/docs/containers?hl=en
 #Cassandra
 
 C# Killer Video Demo | https://github.com/luketillman/killrvideo-csharp
+
+tutorials | https://academy.datastax.com/tutorials
 
 #GraphQL
 
@@ -87,3 +96,9 @@ Deconvolution Wiki | https://en.wikipedia.org/wiki/Deconvolution
 
 ### MessagePack
 MessagePack | http://msgpack.org/ 
+
+## GitHub
+
+From 20 to 2,000 engineers on GitHub: Azure, GitHub and our Open Source Portal
+| https://azure.microsoft.com/en-us/blog/enterprise-scale-github-at-azure/
+http://www.jeff.wilcox.name/2015/11/azure-on-github/
