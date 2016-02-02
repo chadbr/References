@@ -5,6 +5,17 @@ dnx to dotnet mappings | http://tattoocoder.azurewebsites.net/preparing-for-dotn
 intro to .net cli | https://github.com/dotnet/cli/blob/master/Documentation/intro-to-cli.md
 
 
+#Build
+
+Google Bazel (build tech) | http://bazel.io/faq.html
+
+### Hubot
+Chat debOps with Hubot | http://blog.flowdock.com/2014/11/11/chatops-devops-with-hubot/
+Hubot scripts | https://hubot.github.com/docs/scripting/
+Hubot Slack | https://github.com/slackhq/hubot-slack
+
+
+
 # Cloud
 ## Azure
 
@@ -19,6 +30,9 @@ Google DataFlow | https://cloud.google.com/dataflow/
 Swarm v. Fleet v. Kubernetes v. Mesos | http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html
 
 Google Containers | https://cloud.google.com/compute/docs/containers?hl=en
+
+## Docker
+Docker on osx | https://allysonjulian.com/setting-up-docker-with-xhyve/
 
 
 #Cassandra
@@ -40,6 +54,7 @@ Free SSL - Let's Encrypt | https://letsencrypt.org/
 
 ## Markdown MD
 markdown-it - Markdown Parser | https://github.com/markdown-it/markdown-it
+markdown lint | https://github.com/DavidAnson/markdownlint
 
 ## Dates
  D3 time | https://github.com/d3/d3-time
@@ -102,3 +117,10 @@ MessagePack | http://msgpack.org/
 From 20 to 2,000 engineers on GitHub: Azure, GitHub and our Open Source Portal
 | https://azure.microsoft.com/en-us/blog/enterprise-scale-github-at-azure/
 http://www.jeff.wilcox.name/2015/11/azure-on-github/
+
+Credential Manager Windows | https://github.com/Microsoft/Git-Credential-Manager-for-Windows
+
+
+# GitHub Electron
+
+### keytar - Node module to manage system keychain | https://github.com/atom/node-keytar
