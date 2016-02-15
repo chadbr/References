@@ -56,6 +56,8 @@ Free SSL - Let's Encrypt | https://letsencrypt.org/
 markdown-it - Markdown Parser | https://github.com/markdown-it/markdown-it
 markdown lint | https://github.com/DavidAnson/markdownlint
 
+GitHub extensions - redcarpet | https://george-hawkins.github.io/basic-gfm-jekyll/redcarpet-extensions.html
+
 ## Dates
  D3 time | https://github.com/d3/d3-time
 
