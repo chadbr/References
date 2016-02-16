@@ -43,7 +43,10 @@ tutorials | https://academy.datastax.com/tutorials
 
 #GraphQL
 
+Building a GraphQL Server with Node.js and SQL | https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/
+
 GraphQL and REST | http://blog.startifact.com/posts/graphql-and-rest.html
+
 
 #Web
 
@@ -108,6 +111,13 @@ Convolution Wiki | https://en.wikipedia.org/wiki/Convolution
 
 Deconvolution | http://terpconnect.umd.edu/~toh/spectrum/Deconvolution.html
 Deconvolution Wiki | https://en.wikipedia.org/wiki/Deconvolution
+
+## Database
+
+#SQL Server | Node JS
+MS Node SQL | https://github.com/Azure/node-sqlserver (pretty much dead?)
+Working fork of node-sqlserver | https://github.com/TimelordUK/node-sqlserver-v8
+Pure Node | http://pekim.github.io/tedious/
 
 ## Serialization
 
