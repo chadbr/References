@@ -135,4 +135,8 @@ Credential Manager Windows | https://github.com/Microsoft/Git-Credential-Manager
 
 # GitHub Electron
 
-### keytar - Node module to manage system keychain | https://github.com/atom/node-keytar
+keytar - Node module to manage system keychain | https://github.com/atom/node-keytar
+
+#Random
+
+How to Safely Store Your Users' Passwords in 2016 | https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016
