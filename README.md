@@ -136,6 +136,16 @@ Credential Manager Windows | https://github.com/Microsoft/Git-Credential-Manager
 # GitHub Electron
 
 keytar - Node module to manage system keychain | https://github.com/atom/node-keytar
+electron awesome | https://github.com/sindresorhus/awesome-electron
+
+mrichter [1:36 AM] 
+@squiggly: maybe check out https://github.com/docker/kitematic/blob/master/util/Info.plist
+GitHub
+docker/kitematic
+kitematic - Visual Docker Container Management on Mac & Windows
+they have made an impressive well structured electron app
+
+Electron Packager | https://github.com/maxogden/electron-packager
 
 #Random
 
