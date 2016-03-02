@@ -1,3 +1,9 @@
+#oil & gas
+
+The Petroleum Truth Report | http://www.artberman.com/blog/
+
+This Week in Petroleum (eia) | http://www.eia.gov/petroleum/weekly/
+
 #dotNetCore
 
 dnx to dotnet mappings | http://tattoocoder.azurewebsites.net/preparing-for-dotnet-cli/
