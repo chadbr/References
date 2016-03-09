@@ -37,6 +37,8 @@ Swarm v. Fleet v. Kubernetes v. Mesos | http://radar.oreilly.com/2015/10/swarm-v
 
 Google Containers | https://cloud.google.com/compute/docs/containers?hl=en
 
+Deploying Microservices on Google App Engine | https://cloud.google.com/solutions/microservices-on-app-engine
+
 ## Docker
 Docker on osx | https://allysonjulian.com/setting-up-docker-with-xhyve/
 
@@ -49,6 +51,8 @@ tutorials | https://academy.datastax.com/tutorials
 
 #GraphQL
 
+GraphQL | https://GraphQL.org
+awesome-graphql | https://github.com/chentsulin/awesome-graphql
 Building a GraphQL Server with Node.js and SQL | https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/
 
 GraphQL and REST | http://blog.startifact.com/posts/graphql-and-rest.html
@@ -61,11 +65,16 @@ Free SSL - Let's Encrypt | https://letsencrypt.org/
 
 # JavaScript
 
+## NPM
+npm cheatsheet https://gist.github.com/AvnerCohen/4051934
+
 ## Markdown MD
 markdown-it - Markdown Parser | https://github.com/markdown-it/markdown-it
 markdown lint | https://github.com/DavidAnson/markdownlint
 
 GitHub extensions - redcarpet | https://george-hawkins.github.io/basic-gfm-jekyll/redcarpet-extensions.html
+
+Universal doc converter (http to md) | http://pandoc.org/
 
 ## Dates
  D3 time | https://github.com/d3/d3-time
@@ -120,15 +129,23 @@ Deconvolution Wiki | https://en.wikipedia.org/wiki/Deconvolution
 
 ## Database
 
-#SQL Server | Node JS
+###SQL Server | Node JS
 MS Node SQL | https://github.com/Azure/node-sqlserver (pretty much dead?)
 Working fork of node-sqlserver | https://github.com/TimelordUK/node-sqlserver-v8
 Pure Node | http://pekim.github.io/tedious/
+
+### Graph DB's
+Time-Based Versioned Graphs
+| http://iansrobinson.com/2014/05/13/time-based-versioned-graphs/
 
 ## Serialization
 
 ### MessagePack
 MessagePack | http://msgpack.org/ 
+
+### gRPC (serialization compiler for multiple langauges)
+gRPC | http://www.grpc.io/ — https://github.com/grpc
+Podcast | https://www.gcppodcast.com/post/episode-15-grpc-with-varun-tarwal/
 
 ## GitHub
 
