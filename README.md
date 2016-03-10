@@ -69,6 +69,7 @@ Free SSL - Let's Encrypt | https://letsencrypt.org/
 npm cheatsheet https://gist.github.com/AvnerCohen/4051934
 
 ## Markdown MD
+markdown cheatsheet | https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 markdown-it - Markdown Parser | https://github.com/markdown-it/markdown-it
 markdown lint | https://github.com/DavidAnson/markdownlint
 
