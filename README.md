@@ -1,4 +1,4 @@
-#oil & gas
+#Oil & Gas
 
 The Petroleum Truth Report | http://www.artberman.com/blog/
 
@@ -20,8 +20,6 @@ Chat debOps with Hubot | http://blog.flowdock.com/2014/11/11/chatops-devops-with
 Hubot scripts | https://hubot.github.com/docs/scripting/
 Hubot Slack | https://github.com/slackhq/hubot-slack
 
-
-
 # Cloud
 ## Azure
 
@@ -30,6 +28,13 @@ Azure Resource Viewer | https://github.com/ytechie/AzureResourceVisualizer
 ## Google
 
 Google DataFlow | https://cloud.google.com/dataflow/
+
+### HTTP/2 http2 in google cloud
+
+Google Cloud Platform Blog: Full Speed Ahead with HTTP/2 on Google Cloud Platform | https://cloudplatform.googleblog.com/2015/10/Full-Speed-Ahead-with-HTTP2-on-Google-Cloud-Platform.html?m=1
+High Performance Browser Networking | http://chimera.labs.oreilly.com/books/1230000000545/ch12.html
+High Performance Browser Networking | http://chimera.labs.oreilly.com/books/1230000000545/ch13.html
+
 
 # Containers
 
@@ -70,6 +75,7 @@ npm cheatsheet https://gist.github.com/AvnerCohen/4051934
 
 ## Markdown MD
 markdown cheatsheet | https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+Cheatsheet | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 markdown-it - Markdown Parser | https://github.com/markdown-it/markdown-it
 markdown lint | https://github.com/DavidAnson/markdownlint
 
@@ -79,7 +85,6 @@ Universal doc converter (http to md) | http://pandoc.org/
 
 ## Dates
  D3 time | https://github.com/d3/d3-time
-
 
 ## Viz
 
@@ -96,8 +101,38 @@ WebGL Fundamentals | http://webglfundamentals.org/
 
 Converting a D3 Visualization to WebGL: How and Why Grapher | http://engineering.ayasdi.com/2015/01/09/converting-a-d3-visualization-to-webgl-how-and-why/
 
+## Color Map / Scales / axis / axes
+
+Axis Component - bl.ocks.org | https://bl.ocks.org/mbostock/1166403
+javascript - Creating a Line Graph in D3 with data in independent arrays? - Stack Overflow | http://stackoverflow.com/questions/24740538/creating-a-line-graph-in-d3-with-data-in-independent-arrays
+d3 heatmap date axis - Google Search | https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=d3%20heatmap%20date%20axis
+d3.js Date vs Half hour heat map not working - Stack Overflow | http://stackoverflow.com/questions/17731003/d3-js-date-vs-half-hour-heat-map-not-working
+Quantitative Scales · mbostock/d3 Wiki | https://github.com/mbostock/d3/wiki/Quantitative-Scales
+
+d3.js - How to use d3.min and d3.max within a d3.json command - Stack Overflow | http://stackoverflow.com/questions/11488194/how-to-use-d3-min-and-d3-max-within-a-d3-json-command
+D3.js Tips and Tricks: Setting Scales Domains and Ranges in d3.js | http://www.d3noob.org/2012/12/setting-scales-domains-and-ranges-in.html
+
+View and set current colormap - MATLAB colormap | http://www.mathworks.com/help/matlab/ref/colormap.html?s_tid=gn_loc_drop
+A New Colormap for MATLAB – Part 1 – Introduction » Steve on Image Processing | http://blogs.mathworks.com/steve/2014/10/13/a-new-colormap-for-matlab-part-1-introduction/
+Default Property Values - MATLAB & Simulink | http://www.mathworks.com/help/matlab/creating_plots/default-property-values.html
+cresspahl: The 'jet' colormap must die! Or: how to improve your map plots and create your own nice colormaps. | http://cresspahl.blogspot.com/2012/03/expanded-control-of-octaves-colormap.html
+matlab jet colormap rgb values for d3 - Google Search | https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=matlab%20jet%20colormap%20rgb%20values%20for%20d3
+Color wheel | Color schemes - Adobe Color CC | https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=2&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.5076425353659019,1,0.6499574875532372,0.8216128161223644,0.91,0.6028037608810162,1,0.8492488493251734,0.33189929914765326,0.91,0.7008250280985803,0.5536714791652336,1,0.7105451337243456,0.7440294073873921&swatchOrder=0,1,2,3,4
+ColorBrewer: Color Advice for Maps | http://colorbrewer2.org/
+
+## React
+
+### React controls
+Draft.js | Rich Text Editor Framework for React | https://facebook.github.io/draft-js/
+
+
+## React Native
+React Native on the Universal Windows Platform | Building Apps for Windows | https://blogs.windows.com/buildingapps/2016/04/13/react-native-on-the-universal-windows-platform/
+CodePush | http://microsoft.github.io/code-push/
+
+
 # Markdown
-Cheatsheet | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Javascript implementation of the Ramer Douglas Peucker Algorithm | http://karthaus.nl/rdp/
 
 
 # VS Code
@@ -171,6 +206,13 @@ kitematic - Visual Docker Container Management on Mac & Windows
 they have made an impressive well structured electron app
 
 Electron Packager | https://github.com/maxogden/electron-packager
+
+
+## electron Voice recognition
+voice recognition chrome electron - Google Search | https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=voice+recognition+chrome+electron
+zenorocha/voice-elements: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer | https://github.com/zenorocha/voice-elements
+TalAter/annyang: Speech recognition for your site. | https://github.com/TalAter/annyang
+
 
 #Random
 
